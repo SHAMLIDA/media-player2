@@ -1,0 +1,14 @@
+@media(max-width:767px) {
+    .nm {
+        height: 110vh !important;
+    }
+}
+
+
+@media(max-width:2560px) {
+    .frame {
+        height: 315px !important;
+        width: 560px !important;
+
+    }
+}
